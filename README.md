@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Current projects
 
-You can use the [editor on GitHub](https://github.com/sashibat/Lifeinfo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Joined quality of life to work on:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- sensors required by a place (need to find out where/who). They need to include less sensors when they measure people's/objects movement as currently the use too many for the data actually needed. The project will focus mainly on programming.
 
-### Markdown
+- stroller needed by a mother with 2 children with cerebral paralysis ages 5 and 7. She is requesting a lightweight stroller allowing here to take the children out on her own and allow them to sit side by side. The project will rely on mainly the mechanical aspects of a stroller
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Joined engineers without borders to work on:
 
-```markdown
-Syntax highlighted code block
+- project that is trying to build an aeroponics system. This project is nearly complete, just require fixes in software and bugs
 
-# Header 1
-## Header 2
-### Header 3
+### Self-projects
 
-- Bulleted
-- List
+- joining rice competition. Currently in the brainstorming stage. Formed a team of 4 people, 2 in Florida, 2 in California. Ideas will be discussed this Saturday. 
 
-1. Numbered
-2. List
+- Working on building a website to represent my name and what I want to do
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sashibat/Lifeinfo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Searching for internships to do over the summer
