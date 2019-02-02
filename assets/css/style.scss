@@ -20,3 +20,8 @@ aside a.button {
   font-size: 21px;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
 }
+
+a.button small {
+  display: block;
+  font-size: 15px;
+}
