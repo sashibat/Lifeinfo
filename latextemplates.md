@@ -38,8 +38,7 @@
 
 
 	\begin{parcolumns}[colwidths={1=0.7\textwidth, 2=0.22\textwidth}]{2}
-		\colchunk{%\large Previouly studied 4 years of labaratory techniques in high school under biomedical studies magnet program, then switched over to bioinformatics (studying data science in college 2 years), to finally fall for mechanical engineering analysis and design.
-		%\null
+		\colchunk{
 		\textbf{\LARGE{Education}} \\
   	\noindent\color{gray}\rule{13cm}{0.5mm}\color{black} \\
  	\Large\textbf{University of California San diego}
