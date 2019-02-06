@@ -1,4 +1,4 @@
-dffnvnfdkj## Current projects
+## Current projects
 
 ### Joined quality of life to work on:
 
