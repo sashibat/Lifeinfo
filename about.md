@@ -1,7 +1,12 @@
 # Past Experiences
 
-## Programming projects
-* Add programming projects from past years
+## Programming projects (Cannot post code due to academic integrity)
+* Java
+ * Wrote up 2048
+   * allowed tiles to slide in 4 directions
+   * tallied points when gained
+   * color coded
+ * Had to create an animal that competed with the entire classes animal (One of top ten in class to win)
 
 ## 2012-2015 FTC robotics
 * 2014-2016
