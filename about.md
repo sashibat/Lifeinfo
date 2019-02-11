@@ -13,7 +13,7 @@
   * Retired from competing to volunteer at robotics competitions and provide aid to brother's team
 
 * 2013-2014 
-  * 2nd place on winning aliance team for superregionals advancing to worlds
+  * 1st place, on winning aliance team for superregionals advancing to worlds
   * One of top 24 teams to advance to State championships
   * Placed 2nd and on a winning alliance in 2 countywide competitions
 
