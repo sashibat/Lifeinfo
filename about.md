@@ -7,7 +7,7 @@
    * tallied points when gained
    * color coded
    
-## 2012-2015 FTC robotics
+## 2010-2016 FTC robotics
 * 2014-2016
   * Retired from competing to volunteer at robotics competitions and provide aid to brother's team
 
