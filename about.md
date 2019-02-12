@@ -2,12 +2,11 @@
 
 ## Programming projects (Cannot post code due to academic integrity)
 * Java
- * Wrote up 2048
+ * Wrote up 2048 (//screenshot game)
    * allowed tiles to slide in 4 directions
    * tallied points when gained
    * color coded
- * Had to create an animal that competed with the entire classes animal (One of top ten in class to win)
-
+   
 ## 2012-2015 FTC robotics
 * 2014-2016
   * Retired from competing to volunteer at robotics competitions and provide aid to brother's team
@@ -19,6 +18,9 @@
 
 * 2012-2013 
   * Placed 3rd countywide competition
+  
+* 2010-2012
+  * Participated in FLL, competing in local competitions
 
 ## Science fair
 
