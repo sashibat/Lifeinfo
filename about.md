@@ -2,10 +2,10 @@
 
 ## Programming projects (Cannot post code due to academic integrity)
 * Java
- * Wrote up 2048 (//screenshot game)
-   * allowed tiles to slide in 4 directions
-   * tallied points when gained
-   * color coded
+  * Wrote up 2048 (//screenshot game)
+    * allowed tiles to slide in 4 directions
+    * tallied points when gained
+    * color coded
    
 ## 2010-2016 FTC robotics
 * 2014-2016
@@ -22,6 +22,11 @@
 * 2010-2012
   * Participated in FLL, competing in local competitions
 
+## Involved in biomedical PLTW program 2012-2016
+* Labwork
+  * Cut and pasted a plasmid into bacteria (Using PCR, electrophoresis, e.coli, etc.)
+  * Grew and tested e. coli in a water bottle as part of an experiment
+  
 ## Science fair
 
 * Won Yale Science and Engineering Science Fair Award 2013
