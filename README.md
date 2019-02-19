@@ -1,1 +1,2 @@
-
+My name is Sachi Shibata and I am a 3rd year bioengineering major at the University of California, San Diego. I want to work with robots. Not solely programming them, but building them, planning them, brainstorming what they'll do and how they can best do the task specifically in the medical field (Prosthetics to surgeries aided by machines). 
+I've handled robots for 5 years starting from simple FLL to FTC competing by brainstorming, building, and programming them and with microcontrollers. The set of skills I gained from those years included some CAD work, C++, 
