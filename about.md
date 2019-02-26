@@ -4,14 +4,7 @@
 
 ### Self-projects
 
-#### Rice health 360 competition
 
-- Developed an idea to be able to check an HIV/AID positive individual's CD4 T lymphocyte levels using tech similar to a diabetes monitor
-  - beneficial in areas with low resources
-  - simple to use
-  - strive towards: 
-    - cheap but accurate enough results
-    - better presentation of idea for all participants
 
 - Working on building a website to represent my name and what I want to do
   - adding pictures from past projects
@@ -19,7 +12,15 @@
 
 - Searching for internships to do over the summer
 
-## Past Experiences
+## Past Projects
+
+### Rice health 360 competition
+
+- Developed an idea to be able to check an HIV/AID positive individual's CD4 T lymphocyte levels using tech similar to a diabetes monitor
+  - beneficial in areas with low resources
+  - simple to use
+  - Theoretically uses antibodies bound to a plate and when CD4 T lymphocytes bind to plate, change in potential occurs which is measured by a device attached to this plate(similar to glucose monitoring device and strip)
+
 
 ### Programming projects
 * Java
