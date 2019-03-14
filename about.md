@@ -36,6 +36,8 @@
   * 1st place, on winning aliance team for superregionals advancing to worlds
   * One of top 24 teams to advance to State championships
   * Placed 2nd and on a winning alliance in 2 countywide competitions
+  ![alt text](http://sashibat.github.io/christ.png)
+  
 
 * 2012-2013 
   * Placed 3rd countywide competition
