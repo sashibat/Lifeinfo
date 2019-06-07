@@ -1,7 +1,7 @@
 ## Qualifications attained
 
 - Learned Latex for fun (resume template can be found under resume tex tab) 2018
-  - benefitted in research with limited amount of research ranging from forums to testing what each line does
+  - helpful in that research was required resources ranging from forums to testing what each line does
 
 - Biomechanics-viscoous to elastic materials under different stress normally applied and mechanically applied to test stress, strength, and strain. deformation of tissues/bones, and 3-d stresses on organs and tissues
   - used matlab to calculate vectors for uniaxial tests
