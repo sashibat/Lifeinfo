@@ -1,17 +1,23 @@
 ## Current projects
 
-<!---### Joined quality of life to work on:- sensors required by a place (need to find out where/who). They need to include less sensors when they measure people's/objects movement as currently the use too many for the data actually needed. The project will focus mainly on programming. - stroller needed by a mother with 2 children with cerebral paralysis ages 5 and 7. She is requesting a lightweight stroller allowing here to take the children out on her own and allow them to sit side by side. The project will rely on mainly the mechanical aspects of a stroller ### Joined engineers without borders to work on: - project that is trying to build an aeroponics system. This project is nearly complete, just require fixes in software and bugs--->
+- Choosing a topic and mentor to for project to begin research on over the course of the summer
 
 ### Self-projects
-- Building a desktop with a budget of less than $650 to run ryzen and enough RAM to handle dual booting under linux and windows and light programming with python and matlab. 
 
 - Working on building a website to represent my name and what I want to do
   - adding pictures from past projects
   - add details about skills
 
-- Searching for internships to do over the summer
-
 ## Past Projects
+
+### Self-projects
+
+- Created resume entirely in latex
+  - Learned latex over the course of several weeks
+  - Tested understanding with use of small assignments for class and then googling anything I could't format correctly
+
+- Created a desktop for under $550 running Ryzen 5 with 16gb of RAM
+  - Dual booted to run windows and Ubuntu
 
 ### Rice health 360 competition
 
@@ -23,7 +29,7 @@
 
 ### Programming projects
 * Java
-  * Wrote up 2048 (//screenshot game)
+  * Wrote up 2048
     * allowed tiles to slide in 4 directions
     * tallied points when gained
     * color coded
