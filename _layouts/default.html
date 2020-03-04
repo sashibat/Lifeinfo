@@ -19,13 +19,14 @@
   </head>
   <body>
       <div id="header">
-        <a href="Sachi Shibat">
-          <!Below line adds title of page>
-          <h1>Sachi Shibata</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <! If statement that says if this is the mainpage, write what was in the link>
-              </div>
+        <nav>
+          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+          {% if site.show_downloads %}
+            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
+            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
+            <li class="title">DOWNLOADS</li>
+          {% endif %}
+        </nav>
       </div><!-- end header -->
 
     <div class="wrapper">
