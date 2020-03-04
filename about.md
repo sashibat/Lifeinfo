@@ -1,6 +1,8 @@
 ## Current projects
 
 - Choosing a topic and mentor to for project to begin research on over the course of the summer
+  - Building monitoring system for racecar drivers
+  - Beginning testing phase of device
 
 ### Self-projects
 
@@ -18,6 +20,16 @@
 
 - Created a desktop for under $550 running Ryzen 5 with 16gb of RAM
   - Dual booted to run windows and Ubuntu
+
+### Robot competition
+- Prototyped a robot to compete for a class project
+  - Created a unique scooping mechanism
+  - Completed 2nd out of 29 teams
+
+### Clear blue sea
+- Worked on a water robot to collect waste from the ocean
+  - Developed one of 3 prototypes
+  - Worked on schematics and ideas for 2 different prototypes 
 
 ### Rice health 360 competition
 
